@@ -239,7 +239,7 @@ mhosts_sort = []
 over_amnt = 3
 
 
-for k,v in mhosts.iteritems():
+for k,v in mhosts.items():
 
     mhosts_sort.append([len(v),k])
 
@@ -249,7 +249,7 @@ count = 0
 
 
 addr_sort = []
-for k,v in addrs.iteritems():
+for k,v in addrs.items():
     #print k,v
     addr_sort.append([len(v),k])
     
