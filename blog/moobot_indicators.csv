@@ -1,0 +1,433 @@
+indicator,type,first_seen,last_seen,comment
+100.137.79.20,IP,7/13/2020,7/13/2020,Moobot c2
+108.251.87.78,IP,7/5/2020,7/6/2020,Moobot c2
+115.211.186.71,IP,7/30/2020,7/30/2020,Moobot c2
+117.145.78.28,IP,7/13/2020,7/22/2020,Moobot c2
+118.15.16.68,IP,7/30/2020,7/30/2020,Moobot c2
+12.129.251.56,IP,7/13/2020,7/13/2020,Moobot c2
+123.162.225.235,IP,7/13/2020,7/13/2020,Moobot c2
+126.254.2.205,IP,7/13/2020,7/13/2020,Moobot c2
+128.243.215.120,IP,7/13/2020,7/13/2020,Moobot c2
+131.104.206.84,IP,7/13/2020,7/22/2020,Moobot c2
+132.84.208.85,IP,7/5/2020,7/5/2020,Moobot c2
+135.153.89.161,IP,7/30/2020,7/30/2020,Moobot c2
+14.47.251.224,IP,7/13/2020,7/13/2020,Moobot c2
+140.175.241.47,IP,7/13/2020,7/13/2020,Moobot c2
+141.104.192.74,IP,10/11/2020,10/11/2020,Moobot c2
+143.146.122.237,IP,7/13/2020,7/13/2020,Moobot c2
+147.217.173.209,IP,7/13/2020,7/22/2020,Moobot c2
+153.168.179.134,IP,7/13/2020,7/13/2020,Moobot c2
+156.115.192.216,IP,7/13/2020,7/13/2020,Moobot c2
+156.78.18.114,IP,7/30/2020,7/30/2020,Moobot c2
+157.28.1.158,IP,7/13/2020,7/22/2020,Moobot c2
+172.78.241.214,IP,7/13/2020,7/13/2020,Moobot c2
+180.60.117.11,IP,7/13/2020,7/13/2020,Moobot c2
+181.137.142.28,IP,7/13/2020,7/13/2020,Moobot c2
+191.75.195.192,IP,7/13/2020,7/13/2020,Moobot c2
+20.249.79.20,IP,7/13/2020,7/13/2020,Moobot c2
+202.49.244.166,IP,7/30/2020,7/30/2020,Moobot c2
+205.10.193.209,IP,7/13/2020,7/13/2020,Moobot c2
+216.186.81.91,IP,10/11/2020,10/11/2020,Moobot c2
+220.234.111.155,IP,7/30/2020,7/30/2020,Moobot c2
+25.241.178.61,IP,7/30/2020,7/30/2020,Moobot c2
+34.121.39.185,IP,7/13/2020,7/13/2020,Moobot c2
+8.8.8.8,IP,8/19/2020,9/5/2020,Moobot c2
+88.154.226.243,IP,7/30/2020,7/30/2020,Moobot c2
+92.29.239.156,IP,7/13/2020,7/13/2020,Moobot c2
+96.250.129.237,IP,7/30/2020,7/30/2020,Moobot c2
+bigbots.cc,Domain,8/19/2020,9/5/2020,Moobot c2
+botnet.best,Domain,8/28/2020,8/28/2020,Moobot c2
+botnet.goelites.cc,Domain,8/22/2020,8/22/2020,Moobot c2
+cence.elrooted.com,Domain,6/10/2020,6/10/2020,Moobot c2
+ddosfor.me,Domain,8/18/2020,8/18/2020,Moobot c2
+help.trumproot.com,Domain,9/25/2020,9/25/2020,Moobot c2
+hh.cyberium.cc,Domain,9/29/2020,9/29/2020,Moobot c2
+park.cyberium.cc,Domain,7/3/2020,7/4/2020,Moobot c2
+ratatouille.allcheesedout.cc,Domain,8/11/2020,8/11/2020,Moobot c2
+wo.cyberium.cc,Domain,10/11/2020,10/11/2020,Moobot c2
+xx.zyzyzyzy5.xyz,Domain,9/19/2020,9/19/2020,Moobot c2
+yakasoft.org,IP,8/18/2020,8/18/2020,Moobot malware delivery domain
+107.172.197.101,IP,8/19/2020,9/5/2020,Moobot malware delivery IP
+107.174.24.12,IP,10/6/2020,10/6/2020,Moobot malware delivery IP
+172.245.205.137,IP,9/17/2020,9/17/2020,Moobot malware delivery IP
+185.172.111.189,IP,8/19/2020,9/5/2020,Moobot malware delivery IP
+185.239.242.195,IP,8/19/2020,9/5/2020,Moobot malware delivery IP
+194.87.139.171,IP,10/11/2020,10/11/2020,Moobot malware delivery IP
+198.46.209.159,IP,8/18/2020,8/18/2020,Moobot malware delivery IP
+2.57.122.186,IP,9/18/2020,9/19/2020,Moobot malware delivery IP
+2.57.122.196,IP,8/18/2020,8/18/2020,Moobot malware delivery IP
+37.46.150.4,IP,8/19/2020,9/5/2020,Moobot malware delivery IP
+45.14.148.105,IP,9/25/2020,9/25/2020,Moobot malware delivery IP
+45.148.10.28,IP,8/20/2020,9/1/2020,Moobot malware delivery IP
+45.153.203.33,IP,8/19/2020,9/5/2020,Moobot malware delivery IP
+45.61.136.150,IP,8/11/2020,8/11/2020,Moobot malware delivery IP
+45.63.53.4,IP,9/20/2020,9/20/2020,Moobot malware delivery IP
+45.95.168.228,IP,7/25/2020,7/26/2020,Moobot malware delivery IP
+45.95.168.248,IP,7/27/2020,7/27/2020,Moobot malware delivery IP
+45.95.168.90,IP,6/23/2020,6/23/2020,Moobot malware delivery IP
+5.199.139.93,IP,8/19/2020,9/5/2020,Moobot malware delivery IP
+5.206.224.237,IP,8/19/2020,9/5/2020,Moobot malware delivery IP
+5.206.227.114,IP,8/12/2020,8/12/2020,Moobot malware delivery IP
+89.248.166.183,IP,8/19/2020,9/5/2020,Moobot malware delivery IP
+94.102.49.26,IP,6/30/2020,6/30/2020,Moobot malware delivery IP
+http://107.172.197.101/helixaepedal/bot.arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://107.172.197.101/helixaepedal/bot.arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://107.172.197.101/helixaepedal/bot.arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://107.172.197.101/helixaepedal/bot.arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://107.172.197.101/helixaepedal/bot.i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://107.172.197.101/helixaepedal/bot.mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://107.172.197.101/helixaepedal/bot.mpsl,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://107.172.197.101/helixaepedal/bot.sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://107.172.197.101/helixaepedal/bot.x86,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://107.174.24.12/arm,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/arm5,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/arm6,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/arm7,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/i586,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/i686,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/mips,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/mipsel,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/sh4,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://107.174.24.12/x86_64,URL,10/6/2020,10/6/2020,Moobot malware delivery URL
+http://172.245.205.137/1/arm,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/1/arm5,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/1/arm7,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/1/mips,URL,9/17/2020,9/25/2020,Moobot malware delivery URL
+http://172.245.205.137/1/mipsel,URL,9/17/2020,9/25/2020,Moobot malware delivery URL
+http://172.245.205.137/1/sh4,URL,9/18/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/1/x86_64,URL,9/17/2020,9/24/2020,Moobot malware delivery URL
+http://172.245.205.137/arm,URL,8/19/2020,9/29/2020,Moobot malware delivery URL
+http://172.245.205.137/arm5,URL,8/19/2020,9/29/2020,Moobot malware delivery URL
+http://172.245.205.137/arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://172.245.205.137/arm7,URL,8/20/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/i586,URL,8/20/2020,9/17/2020,Moobot malware delivery URL
+http://172.245.205.137/i686,URL,8/19/2020,9/29/2020,Moobot malware delivery URL
+http://172.245.205.137/mips,URL,8/20/2020,9/29/2020,Moobot malware delivery URL
+http://172.245.205.137/mipsel,URL,8/20/2020,9/29/2020,Moobot malware delivery URL
+http://172.245.205.137/sh4,URL,8/19/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/sparc,URL,9/17/2020,9/29/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.arm,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.arm5,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.arm7,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.i586,URL,9/17/2020,9/17/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.i686,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.mips,URL,9/17/2020,9/25/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.mpsl,URL,9/17/2020,9/25/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.sh4,URL,9/18/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.spc,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://172.245.205.137/urlhausesexy/tolisec.x86,URL,9/17/2020,9/24/2020,Moobot malware delivery URL
+http://172.245.205.137/x86_64,URL,8/19/2020,9/24/2020,Moobot malware delivery URL
+http://185.172.111.189/arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://185.172.111.189/arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.172.111.189/arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.172.111.189/arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://185.172.111.189/i586,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://185.172.111.189/i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://185.172.111.189/mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.172.111.189/mipsel,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.172.111.189/sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.172.111.189/x86_64,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://185.239.242.195/arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.mpsl,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/b/bot.x86,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/i586,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://185.239.242.195/i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://185.239.242.195/mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/mipsel,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.mpsl,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/welcome/bot.x86,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://185.239.242.195/x86_64,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.arm,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.arm5,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.arm7,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.i586,URL,10/12/2020,10/12/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.i686,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.mips,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.mpsl,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.sh4,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.spc,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://194.87.139.171/HOPEIDONTHITURLHAUSE/proval.x86,URL,10/11/2020,10/11/2020,Moobot malware delivery URL
+http://198.46.209.159/arm,URL,8/18/2020,9/4/2020,Moobot malware delivery URL
+http://198.46.209.159/arm5,URL,8/18/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/arm6,URL,8/18/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/arm7,URL,8/18/2020,9/4/2020,Moobot malware delivery URL
+http://198.46.209.159/i586,URL,8/18/2020,9/4/2020,Moobot malware delivery URL
+http://198.46.209.159/i686,URL,8/18/2020,9/5/2020,Moobot malware delivery URL
+http://198.46.209.159/mips,URL,8/18/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/mipsel,URL,8/18/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/sh4,URL,8/18/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/suckpenis/bitch.arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/suckpenis/bitch.arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/suckpenis/bitch.arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://198.46.209.159/suckpenis/bitch.mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/suckpenis/bitch.mpsl,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/suckpenis/bitch.sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/suckpenis/bitch.x86,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://198.46.209.159/x86_64,URL,8/18/2020,9/1/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.arm,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.arm5,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.arm7,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.i686,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.mips,URL,9/17/2020,9/25/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.mpsl,URL,9/17/2020,9/25/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.sh4,URL,9/18/2020,9/19/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.spc,URL,9/17/2020,9/19/2020,Moobot malware delivery URL
+http://2.57.122.186/scream/tolisec.x86,URL,9/17/2020,9/24/2020,Moobot malware delivery URL
+http://2.57.122.196/arm,URL,8/18/2020,9/4/2020,Moobot malware delivery URL
+http://2.57.122.196/arm5,URL,8/18/2020,8/29/2020,Moobot malware delivery URL
+http://2.57.122.196/arm6,URL,8/18/2020,8/28/2020,Moobot malware delivery URL
+http://2.57.122.196/arm7,URL,8/18/2020,9/4/2020,Moobot malware delivery URL
+http://2.57.122.196/i586,URL,8/18/2020,8/28/2020,Moobot malware delivery URL
+http://2.57.122.196/i686,URL,8/18/2020,8/28/2020,Moobot malware delivery URL
+http://2.57.122.196/mips,URL,8/18/2020,8/25/2020,Moobot malware delivery URL
+http://2.57.122.196/mipsel,URL,8/18/2020,8/28/2020,Moobot malware delivery URL
+http://2.57.122.196/sh4,URL,8/18/2020,8/28/2020,Moobot malware delivery URL
+http://2.57.122.196/x86_64,URL,8/18/2020,8/28/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.mpsl,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://37.46.150.4/welcome/bot.x86,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://45.14.148.105/arm4,URL,9/27/2020,9/27/2020,Moobot malware delivery URL
+http://45.14.148.105/arm7,URL,9/25/2020,9/25/2020,Moobot malware delivery URL
+http://45.14.148.105/i686,URL,9/25/2020,9/25/2020,Moobot malware delivery URL
+http://45.148.10.28/mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.i586,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.mpsl,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://45.153.203.33/welcome/bot.x86,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://45.61.136.150/arm,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/arm5,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/arm6,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/arm7,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/i586,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/i686,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/mips,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/mipsel,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/sh4,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.61.136.150/x86_64,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://45.63.53.4/arm4,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/arm5,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/arm6,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/arm7,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/i586,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/i686,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/m68k,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/mips,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/mipsel,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/ppc,URL,9/19/2020,9/19/2020,Moobot malware delivery URL
+http://45.63.53.4/sh4,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/sparc,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.63.53.4/x86_64,URL,9/19/2020,9/20/2020,Moobot malware delivery URL
+http://45.95.168.228/arm,URL,7/25/2020,7/25/2020,Moobot malware delivery URL
+http://45.95.168.228/arm5,URL,7/25/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.228/arm6,URL,7/25/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.228/arm7,URL,7/25/2020,7/25/2020,Moobot malware delivery URL
+http://45.95.168.228/i586,URL,7/25/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.228/i686,URL,7/25/2020,7/25/2020,Moobot malware delivery URL
+http://45.95.168.228/mips,URL,7/25/2020,7/25/2020,Moobot malware delivery URL
+http://45.95.168.228/mipsel,URL,7/25/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.228/sh4,URL,7/25/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.228/x86_64,URL,7/25/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.248/1/arm,URL,7/10/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/1/arm5,URL,7/10/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/1/arm6,URL,7/19/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/1/arm7,URL,7/10/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/1/i586,URL,7/10/2020,7/10/2020,Moobot malware delivery URL
+http://45.95.168.248/1/i686,URL,7/10/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/1/mips,URL,7/10/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/1/mipsel,URL,7/10/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/1/sh4,URL,7/10/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/1/x86_64,URL,7/10/2020,7/19/2020,Moobot malware delivery URL
+http://45.95.168.248/2/arm,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/2/arm5,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/2/arm7,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/2/i586,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/2/i686,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/2/mips,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/2/mipsel,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/2/sh4,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/2/x86_64,URL,7/9/2020,7/9/2020,Moobot malware delivery URL
+http://45.95.168.248/arm,URL,7/4/2020,7/25/2020,Moobot malware delivery URL
+http://45.95.168.248/arm5,URL,7/16/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.248/arm6,URL,7/21/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.248/arm7,URL,7/4/2020,7/25/2020,Moobot malware delivery URL
+http://45.95.168.248/i586,URL,7/13/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.248/i686,URL,7/21/2020,7/25/2020,Moobot malware delivery URL
+http://45.95.168.248/mips,URL,7/14/2020,7/25/2020,Moobot malware delivery URL
+http://45.95.168.248/mipsel,URL,7/14/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.248/moo/arm,URL,7/27/2020,7/27/2020,Moobot malware delivery URL
+http://45.95.168.248/moo/arm5,URL,7/27/2020,7/27/2020,Moobot malware delivery URL
+http://45.95.168.248/moo/arm6,URL,7/27/2020,7/27/2020,Moobot malware delivery URL
+http://45.95.168.248/moo/arm7,URL,7/27/2020,7/27/2020,Moobot malware delivery URL
+http://45.95.168.248/moo/mips,URL,7/27/2020,7/27/2020,Moobot malware delivery URL
+http://45.95.168.248/moo/sh4,URL,7/27/2020,7/27/2020,Moobot malware delivery URL
+http://45.95.168.248/sh4,URL,7/16/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.248/x86_64,URL,7/21/2020,7/26/2020,Moobot malware delivery URL
+http://45.95.168.90/le.bot.arm,URL,6/23/2020,6/23/2020,Moobot malware delivery URL
+http://45.95.168.90/le.bot.arm5,URL,6/23/2020,6/23/2020,Moobot malware delivery URL
+http://45.95.168.90/le.bot.arm6,URL,6/23/2020,6/23/2020,Moobot malware delivery URL
+http://45.95.168.90/le.bot.arm7,URL,6/21/2020,6/21/2020,Moobot malware delivery URL
+http://45.95.168.90/le.bot.mipsel,URL,6/23/2020,6/23/2020,Moobot malware delivery URL
+http://5.199.139.93/arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://5.199.139.93/arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://5.199.139.93/arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://5.199.139.93/arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://5.199.139.93/i586,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://5.199.139.93/i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://5.199.139.93/mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://5.199.139.93/mipsel,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://5.199.139.93/sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://5.199.139.93/x86_64,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://5.206.224.237/arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://5.206.224.237/arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://5.206.224.237/arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://5.206.224.237/arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://5.206.224.237/i586,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://5.206.224.237/i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://5.206.224.237/mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://5.206.224.237/mipsel,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://5.206.224.237/sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://5.206.224.237/x86_64,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://5.206.227.114/arm,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/arm5,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/arm6,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/arm7,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/i586,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/i686,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/mips,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/mipsel,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/sh4,URL,8/12/2020,8/12/2020,Moobot malware delivery URL
+http://5.206.227.114/x86_64,URL,8/11/2020,8/11/2020,Moobot malware delivery URL
+http://89.248.166.183/arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://89.248.166.183/arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://89.248.166.183/arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://89.248.166.183/arm7,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://89.248.166.183/i586,URL,8/20/2020,9/4/2020,Moobot malware delivery URL
+http://89.248.166.183/i686,URL,8/19/2020,9/5/2020,Moobot malware delivery URL
+http://89.248.166.183/mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://89.248.166.183/mipsel,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://89.248.166.183/sh4,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://94.102.49.26/1/arm,URL,6/29/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/1/arm5,URL,7/2/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/1/arm7,URL,6/30/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/1/i586,URL,7/2/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/1/mips,URL,7/2/2020,7/4/2020,Moobot malware delivery URL
+http://94.102.49.26/1/mipsel,URL,7/2/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/1/sh4,URL,6/30/2020,6/30/2020,Moobot malware delivery URL
+http://94.102.49.26/1/x86_64,URL,7/2/2020,7/2/2020,Moobot malware delivery URL
+http://94.102.49.26/2/arm7,URL,7/3/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/arm,URL,7/1/2020,7/4/2020,Moobot malware delivery URL
+http://94.102.49.26/arm5,URL,7/3/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/arm7,URL,7/1/2020,7/4/2020,Moobot malware delivery URL
+http://94.102.49.26/i586,URL,7/3/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/i686,URL,7/3/2020,7/6/2020,Moobot malware delivery URL
+http://94.102.49.26/le.bot.arm,URL,6/29/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/mips,URL,7/3/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/mipsel,URL,7/3/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/sh4,URL,7/3/2020,7/3/2020,Moobot malware delivery URL
+http://94.102.49.26/x86_64,URL,7/3/2020,7/5/2020,Moobot malware delivery URL
+http://bigbots.cc/arm,URL,8/19/2020,9/4/2020,Moobot malware delivery URL
+http://bigbots.cc/arm5,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+http://bigbots.cc/arm6,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://bigbots.cc/mips,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://bigbots.cc/mipsel,URL,8/20/2020,9/1/2020,Moobot malware delivery URL
+http://bigbots.cc/x86_64,URL,8/19/2020,9/1/2020,Moobot malware delivery URL
+https://yakasoft.org/ftp/DotNet%20Related/Online%20Deobfuscator/uploads/64b.exe,URL,8/18/2020,8/18/2020,Moobot malware delivery URL
+0cbad1f36583ab3170d375d868dde8ee1e6767d5198b4e4cc002d846d0bc0d94,sha256,10/11/2020,10/11/2020,Moobot Mirai variant
+0e0c5ff66cff03b630c2468d935e27db547ee86e99bcb2fafad69750bdcfcdff,sha256,8/19/2020,9/5/2020,Moobot Mirai variant
+0ff1385e82b616f4a73cb1f8304af4354f20f73d8b66529518d3edde3ca33c00,sha256,7/3/2020,7/4/2020,Moobot Mirai variant
+11c26adbdebd4b17cfe4bd00d974cbbd7ba0b3148de69393148a0c021c1d24cd,sha256,8/18/2020,8/18/2020,Moobot Mirai variant
+1bbcb37f678e0771aafc4e1677f70105575441297b2d2cd90abdd44e2a55a1f1,sha256,7/3/2020,7/3/2020,Moobot Mirai variant
+1e2fc4ae25acfcf1de36a83ea30fc613d70064fb5a0ea39fca6cea93572f0dae,sha256,8/22/2020,8/22/2020,Moobot Mirai variant
+1f44bb06c389ac38941a33a3f069ed606ca64718ef9558e972d23579c968a383,sha256,7/10/2020,7/10/2020,Moobot Mirai variant
+2114110a3a495fc662015f3de15acf9ac3b0a087a32ebff5ae03c062107d02e5,sha256,9/29/2020,9/29/2020,Moobot Mirai variant
+22b26b116be0ce024198fdd36588547ef096d8b0278e126e81d4d873acb0f273,sha256,10/6/2020,10/6/2020,Moobot Mirai variant
+2cc7ccb0f7d8ebcb62dfbf246abcf64d159cd4f8291716ac5ade8a550e4a1c62,sha256,8/28/2020,8/28/2020,Moobot Mirai variant
+32acfeede65c420e4d9212c586410e781adc3b48982a3aad506a1990123f04ab,sha256,7/10/2020,7/10/2020,Moobot Mirai variant
+345804ace19fed34cfb1d1e617b08529b41ead6c0e267f6be19d44bfec28a9bb,sha256,8/18/2020,8/18/2020,Moobot Mirai variant
+353afd0a40cfa08a5c28ad9a42ee6414948cea787ee4d33580cbe576ff007322,sha256,7/5/2020,7/6/2020,Moobot Mirai variant
+3af2aa6e5407aebb017e5746880f78770a89876e6f4171585d732c82c428a199,sha256,7/10/2020,7/10/2020,Moobot Mirai variant
+3ee6ec56d290de05e2cd05ec420c29ce15bfe86c19791a1049d856feabc6c643,sha256,7/25/2020,7/26/2020,Moobot Mirai variant
+41cc4c8e1a5a2a79eaf1b725df906efadea7bd63d6988cae40bbd196fb2adaf6,sha256,7/2/2020,7/3/2020,Moobot Mirai variant
+440762df02240bf28cd5ae68f16cfafda0f67e1ed03e7e65d0131a47993c45f5,sha256,9/25/2020,9/25/2020,Moobot Mirai variant
+49c68d933c0f22cfdc8cb8ae0a776dbccb25dc76a31d93a1d4b4ef0cae46e4aa,sha256,7/21/2020,7/21/2020,Moobot Mirai variant
+4be917733cf7ee285b5d76bf7a876a2ce6729c5ff8f294d5a86c8453d199fdee,sha256,7/2/2020,7/2/2020,Moobot Mirai variant
+54f3ab6db8a6d2f64d1b84fd577281d3cdfe8f3cfd5bbbf11f7b4a9bd6208b81,sha256,7/30/2020,7/30/2020,Moobot Mirai variant
+557c4751304f51b52a60b0acd8c066dbb2c0dd31bb2249123a92ebffddcb79d5,sha256,7/25/2020,7/26/2020,Moobot Mirai variant
+55f42c5dc57901c23f992493a50cd96f70cdaf4212ce05a5f33c39fbc0d9063f,sha256,8/11/2020,8/11/2020,Moobot Mirai variant
+5612180effb319fbead8d076e0ac3999a9d3e890832098a2e2066a51d8231579,sha256,8/22/2020,8/22/2020,Moobot Mirai variant
+59b583ab749a85b58db5d20fa0e45791f5da6ec4d5e18804e7c5cf655d0d9374,sha256,8/12/2020,8/12/2020,Moobot Mirai variant
+5a58b612ffdc92cce3026e0c21313125062267b376024c8a9e844bbacce70147,sha256,8/20/2020,9/4/2020,Moobot Mirai variant
+5a8d51a1b4a41e0838fcbc8a44539601a2b136f0b1660b7d0f454d518767b57b,sha256,9/29/2020,9/29/2020,Moobot Mirai variant
+5d4ce7420817315c20e1f602523b814226af3e5af02a8dc92d9dde21b793ae7b,sha256,7/9/2020,7/9/2020,Moobot Mirai variant
+5e2addf0a97ec21b40c54d17119c8ccb55290cc275c5623d8d986271298d7e5a,sha256,7/30/2020,7/30/2020,Moobot Mirai variant
+60d1398d66a8b7fd11d1ccb7887df66c61e2d361ffd1d580c4c316deb4f7c2e5,sha256,9/20/2020,9/20/2020,Moobot Mirai variant
+6110e46d4172fcaceb1c23db59a21221c9da00278cc3d5d1ce0a3b227b7b5243,sha256,9/19/2020,9/19/2020,Moobot Mirai variant
+6b069bd85f39fc201785b317ee82e2f5e7922e9967cc8633a36442efc13dcecc,sha256,7/3/2020,7/3/2020,Moobot Mirai variant
+6bce6d1f89f561cb8186a39818ed6329e2404bd6fbbd69d1311f6d1e83f72cce,sha256,9/20/2020,9/20/2020,Moobot Mirai variant
+73bfdc03df4f5aeb6f801c050459b53e8dcdff803767b4fae2bb8bae93f263c2,sha256,7/19/2020,7/19/2020,Moobot Mirai variant
+76c9f4f6161cdc58dd312a946e48d19a6ef59b222dc67263b5015a595661b574,sha256,7/13/2020,7/13/2020,Moobot Mirai variant
+77b6a0477384a0af3a9fa8d5f03c0d06f4ed9a70af37d7f6f8de1747227515bd,sha256,7/13/2020,7/13/2020,Moobot Mirai variant
+7904141262a6c5930c4f828e861587d036b1b23d2e7408457e526b3fe9c02ac3,sha256,6/10/2020,6/10/2020,Moobot Mirai variant
+80a71907228c7a1ca2c0c51391674b2fc080c34a9b6e4ec5a06643536be53c6e,sha256,7/13/2020,7/13/2020,Moobot Mirai variant
+8b01a3c9ea6b35ec8ebc58a60b73056ea7eb00c91fee57c124fbb67a11a01ffe,sha256,10/6/2020,10/6/2020,Moobot Mirai variant
+8b3cb2fa295003527104523d4dc8828b75cd6b6b3d80650bea66d08c54e895f5,sha256,8/12/2020,8/12/2020,Moobot Mirai variant
+90b40858e421bb384e3465e1ce752b2dc24968da4301c4f52aff313b329a619b,sha256,8/22/2020,8/22/2020,Moobot Mirai variant
+91417e811e4f9fc05d48c29f5e97cd25f69e39a86e90fa134e3408840f7ed06f,sha256,8/25/2020,8/25/2020,Moobot Mirai variant
+9196aa2349f6a559afca6cfa4a983e8dd5188cffd4043c205fdead6f47ec261a,sha256,8/19/2020,9/1/2020,Moobot Mirai variant
+a1b74ed113dfac4e47f3015dfb9abd9eb812dc2bb43120efa98e5924629a85ef,sha256,8/18/2020,8/18/2020,Moobot Mirai variant
+a79c6b585503d50dd698b657666a2583adfdb53d9a373722b6cba6da73bebb6f,sha256,8/28/2020,8/28/2020,Moobot Mirai variant
+b08064c8ea0eeceddc19b4550cb224cb73da17dda94b4d2fb2fff5e3f21df421,sha256,7/13/2020,7/13/2020,Moobot Mirai variant
+b1a2a59c3fd900cbc5a260803a0b493f00062bc1d73fecb93964c4387d0cbecc,sha256,7/7/2020,7/7/2020,Moobot Mirai variant
+bacda4e284694a22d44d104e330935ac1049ede2f36d97a90a0951cddb977588,sha256,7/19/2020,7/19/2020,Moobot Mirai variant
+bd10e8a2a2062bd08aadd92b44f6cd8c5fe8da5729f44952bc7ee96cc436279a,sha256,8/11/2020,8/11/2020,Moobot Mirai variant
+c49a425c025b573cf9fc928c424adfccf8bf02b92237422b1058d5aef7d28f40,sha256,8/25/2020,8/25/2020,Moobot Mirai variant
+c623dc1441cb79dd8214ece3c7e4f020f32472cc27a07beca4169c902a58fe9c,sha256,10/11/2020,10/11/2020,Moobot Mirai variant
+c7910b885ffd45977da536d5cc557ec8af21f802f9d9bb8eaf347b58ff66f546,sha256,7/5/2020,7/5/2020,Moobot Mirai variant
+cfca1b5203157847f05c4de46dd7479d384d1d26c878f9759c87925abec6716e,sha256,7/9/2020,7/9/2020,Moobot Mirai variant
+d0c280bcac142c49eed685bdddd935abb1430a4621b2ff4a88fbb6ab3110ed19,sha256,7/30/2020,7/30/2020,Moobot Mirai variant
+d178b3c9f01829f56ec244849d36c0194786b709513abf8ffc878bdb672052f9,sha256,9/17/2020,9/19/2020,Moobot Mirai variant
+d24807d44705c95a6366b8ba924af2b5853fbfd6169a478ad3e0d1a895184c5b,sha256,7/9/2020,7/9/2020,Moobot Mirai variant
+d3430647842f64e14ad4a094217f758b5f7187e76586c517b7867f33c4e54946,sha256,8/11/2020,8/11/2020,Moobot Mirai variant
+d54563d5ffc4c2826ab82c34179480fe898d41e1e7a8447ac869fff732b22baf,sha256,8/28/2020,8/28/2020,Moobot Mirai variant
+d7cffa9634f728a4f9e6cf5959b5418e4fdd65297f8a6978622103cd871fc09a,sha256,7/25/2020,7/25/2020,Moobot Mirai variant
+d82e3d1877e280e28337bfdf989c91f33404a0f1d40009617801f52411776aeb,sha256,7/13/2020,7/13/2020,Moobot Mirai variant
+d89f869a6da3e1c378c830411d874f76338f728908bde11038a98cdaf3a575eb,sha256,9/17/2020,9/17/2020,Moobot Mirai variant
+d96e9dfb6a73a197c3927a4447ab8745f06d8a6a88eb33e6d5c40b415cd43150,sha256,9/17/2020,9/24/2020,Moobot Mirai variant
+de1b69cfe1a8672a71262a2bbadeb4f9ef612f85d0776f3e598642f5bd17b28b,sha256,7/13/2020,7/22/2020,Moobot Mirai variant
+e69ca13717dfb3f78536447ec9eae31c93d9bfe9c426f0d1d74b0108a227b159,sha256,7/21/2020,7/21/2020,Moobot Mirai variant
+ecfa0f9f8bdd7d1ac2324ca717189baba4ca435b7d0863444f29613c2e452806,sha256,7/21/2020,7/21/2020,Moobot Mirai variant
+f016ebe943461bee2a307ef637e671bcbb869c9117500505ac1de93626d0408f,sha256,9/29/2020,9/29/2020,Moobot Mirai variant
+f1c1c1a933d91dce13a3c6630f4834ca7631e90d65773f6af595a117760990aa,sha256,7/24/2020,8/7/2020,Moobot Mirai variant
+f5d296ace78582403c8678a0517bb78d95ba81300c71e1be6d2d10d4401dcd21,sha256,10/6/2020,10/6/2020,Moobot Mirai variant
+f62e1ebd368c0c3ad53902ebb9faee15814b46fac8939f60b238a84dc7702a1c,sha256,9/19/2020,9/19/2020,Moobot Mirai variant
+f8d37766a3f86179a8c53f39fb3715b517763e9338a42950dbb1c600dec73cf0,sha256,8/25/2020,8/25/2020,Moobot Mirai variant
