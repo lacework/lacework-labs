@@ -107,8 +107,6 @@ def deobfuscate_(obfuscated_py,deobfuscated_py):
                         iterationcount += 1
                         try:
                             sig = func_name+"(zlib.decompress("
-                            before_ = line.split(sig)[0]
-                            after_ = line.split(sig)[1].split("))")[1]
                             
                             temp = line.split(sig)[1].split("))")[0]
                             tempnew = ast.literal_eval(temp)
