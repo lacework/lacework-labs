@@ -1,0 +1,10 @@
+indicator,type,first_seen,last_seen,comment
+4ae513b6f46132aec7d1c268e6ee981af1ac0ab6d92c448c7c9bdedd63e3c303,sha256,4/13/2020,4/13/2020,"Carbine Loader"
+5f19a959b36c2696ef95873017b48ab03c3ae83ecae2ea5092a30fb6179f5c7c,sha256,4/13/2020,4/13/2020,"Carbine Loader"
+b0a7aa88d5db826b95a1c53e92dd19b7cfe4fb87fbd218a16d170c1644d57b0b,sha256,4/13/2020,4/13/2020,"Carbine Loader"
+5f19a959b36c2696ef95873017b48ab03c3ae83ecae2ea5092a30fb6179f5c7c,sha256,4/13/2020,4/13/2020,"Carbine Loader"
+67ce0dbe860841a70026de673be1a5fc5062e293dbfb05564bb8eb489ce56c44,sha256,4/13/2020,4/13/2020,"Carbine Loader"
+sslcer.justdied.com,domain,4/13/2020,4/13/2020,"Carbine Loader C2"
+jquery-dns-07.dns05.com,domain,4/13/2020,4/13/2020,"Carbine Loader C2"
+45.138.209.197,ipv4,4/13/2020,4/13/2020,"Carbine Loader C2"
+185.183.84.197,ipv4,4/13/2020,4/13/2020,"Carbine Loader C2"
