@@ -15,7 +15,7 @@ mystring = 'stratum+tcp'#obfuscated string to search
 
 rule_name = "stratum_obfuscated"#your Yara rule name
 
-yara_rule_file = "myyararule.txt"#your Yara rule file
+yara_rule_file = "stratum_obf_yara.txt"#your Yara rule file
 
 
 f = open(yara_rule_file,"w")
@@ -102,6 +102,7 @@ f.write('\n')
 f.write('condition:\n')
 f.write('\n')
 
+
 f.write('any of ($s*)')
 f.write('\n')
 
@@ -111,3 +112,4 @@ f.write('\n')
 f.close()
 
 
+print('wrote Yara rule to '+yara_rule_file)
