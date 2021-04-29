@@ -1,0 +1,17 @@
+indicator,type,first_seen,last_seen,comment
+3c39a177d2ff259efb3b93589116f1a14470e90176ed593756682c9dcfc34549,sha256,1/7/2021,3/25/2021,WSO webshell - cpuminer
+267f23ace15a0a706845d1863c958223ad6f1d8718b82bb3e1cdb8e545e9bcb0,sha256,1/7/2021,3/25/2021,WSO webshell - cpuminer
+e974e62e86e7f7965c909286a5050ed4b286fe1b4eb8d30542a30d5ad8d1281d,sha256,1/7/2021,3/25/2021,WSO webshell - cpuminer
+29e30cb9bc004ce4c587a62fe8992d35b326065eb4a3f67921dfabc422fc436b,sha256,1/7/2021,3/25/2021,WSO webshell - cpuminer
+86636bbf8a477a3a6ab91656c3d2208fc8a0c83218974bca82ca1622636def82,sha256,1/7/2021,3/25/2021,WSO webshell - cpuminer
+9015565a6677b230efdde8863f480fd527eaed52d33a12832636277711edc7a2,sha256,1/7/2021,3/25/2021,WSO webshell - cpuminer
+7420cb01c1192cef985d0ee07f50db52c92cee7d43a86627f9709cd96b2e3cf9,sha256,1/7/2021,3/25/2021,WSO webshell - cpuminer
+666c120f9fa062cbef8725e7d4cea4bd4bb5a14a32e1b5909c3d3ff900ddbf18,sha256,1/7/2021,3/25/2021,WSO webshell - cpuminer
+1adffca6b8da4af1556b0e4ba219babdf979be25ad45431eb2e233fdee0a8952,sha256,1/21/2021,3/30/2021,cpuminer
+d68fa9e9187a8d0021b61b57d5f963fd7f6e15f5867f0caf7d7b8cb5d0f51778,sha256,12/3/2020,12/3/2020,cpuminer
+http://118.97.221.252/git,URL,4/9/2021,4/20/2021,cpuminer download host
+http://94.23.29.122/p2b,URL,4/9/2021,4/9/2021,cpuminer download host
+http://185.213.209.151/systemd,URL,1/7/2021,4/20/2021,cpuminer download host
+http://185.213.209.151/update,URL,1/7/2021,4/20/2021,cpuminer download host
+118.97.221.252,IP,4/9/2021,4/20/2021,cpuminer download host
+94.23.29.122,IP,4/9/2021,4/9/2021,cpuminer download host
