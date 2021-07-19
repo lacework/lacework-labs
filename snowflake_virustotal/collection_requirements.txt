@@ -1,0 +1,4 @@
+#VirusTotal queries - must be formatted properly. Refer to VT API documentation
+tag:shell positives:1+ fs:2021-07-05+
+tag:elf positives:1+ fs:2021-07-05+
+name:*.sh positives:1+ fs:2021-07-05+
