@@ -1,7 +1,7 @@
 
 # -----------------------------------------------------------
 # Companion script for Lacework Labs blog - "Threat Research with Snowflake & VirusTotal"
-#   reference:https://www.lacework.com/blog/
+#   reference:https://www.lacework.com/blog/threat-research-with-snowflake-virustotal/
 #
 #
 # Released under GNU Public License (GPL)
