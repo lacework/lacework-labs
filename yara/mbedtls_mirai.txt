@@ -1,0 +1,27 @@
+rule mbedtls_mirai 
+{
+   
+   meta:
+      
+      description = "finds Mirai binaries using mbedtls"
+      author = "Chris Hall @LaceworkLabs"
+      date = "2021-07-11"
+
+   
+   strings:
+
+      $s1 = "id-at-postalAddress" fullword ascii
+      $s2 = "Usage does not match the keyUsage extension" fullword ascii
+      $s3 = "id-at-postalCode" fullword ascii
+      $s4 = "id-ce-extKeyUsage" fullword ascii
+      $s5 = "%s%-18s: %d bits" fullword ascii
+      $s6 = "id-ce-keyUsage" fullword ascii
+      $s7 = "npxXoudifFeEgGaACScs"
+      $s8 = "Mozilla" xor(0x01-0xff)
+   
+   condition:
+
+      uint16(0) == 0x457f and all of them 
+
+
+}
