@@ -1,0 +1,24 @@
+rule mbedtls_iot 
+{
+   
+   meta:
+      
+      description = "finds iot binaries using mbedtls"
+      author = "Chris Hall @LaceworkLabs"
+      date = "2021-07-11"
+
+   
+   strings:
+
+      $s1 = "id-at-postalAddress" fullword ascii
+      $s2 = "Usage does not match the keyUsage extension" fullword ascii
+      $s3 = "id-at-postalCode" fullword ascii
+      $s4 = "%s%-18s: %d bits" fullword ascii
+      $s5 = "id-ce-keyUsage" fullword ascii
+      $s6 = "npxXoudifFeEgGaACScs" fullword ascii
+   
+   condition:
+
+      uint16(0) == 0x457f and all of them 
+
+}
