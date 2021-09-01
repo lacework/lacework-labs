@@ -1,0 +1,61 @@
+indicator,type ,first_seen,last_seen,comment
+ns1.accounting-consult.xyz,Domain,8/2/2020,6/23/2021,PYSA ChaChi nameserver
+ns1.blitzz.best,Domain,6/6/2020,6/2/2021,PYSA ChaChi nameserver
+ns1.ccenter.tech,Domain,3/24/2021,8/31/2021,PYSA ChaChi nameserver
+ns1.english-breakfast.xyz,Domain,12/15/2020,6/24/2021,PYSA ChaChi nameserver
+ns1.englishdialoge.xyz,Domain,11/26/2020,6/24/2021,PYSA ChaChi nameserver
+ns1.englishdict.xyz,Domain,11/5/2020,6/24/2021,PYSA ChaChi nameserver
+ns1.firefox-search.xyz,Domain,9/7/2020,6/23/2021,PYSA ChaChi nameserver
+ns1.ntservicepack.com,Domain,4/29/2020,11/24/2020,PYSA ChaChi nameserver
+ns1.productoccup.tech,Domain,3/23/2021,6/24/2021,PYSA ChaChi nameserver
+ns1.pump-online.xyz,Domain,12/15/2020,6/24/2021,PYSA ChaChi nameserver
+ns1.reportservicefuture.website,Domain,5/9/2020,5/2/2021,PYSA ChaChi nameserver
+ns1.sbvjhs.club,Domain,8/2/2020,6/23/2021,PYSA ChaChi nameserver
+ns1.sbvjhs.xyz,Domain,8/1/2020,6/23/2021,PYSA ChaChi nameserver
+ns1.serchtext.xyz,Domain,11/2/2020,6/24/2021,PYSA ChaChi nameserver
+ns1.spm.best,Domain,8/9/2020,10/15/2020,PYSA ChaChi nameserver
+ns1.starhouse.xyz,Domain,11/26/2020,6/24/2021,PYSA ChaChi nameserver
+ns1.statistics-update.xyz,Domain,7/23/2021,7/23/2021,PYSA ChaChi nameserver
+ns1.transnet.wiki,Domain,3/24/2021,6/23/2021,PYSA ChaChi nameserver
+ns1.visual-translator.xyz,Domain,9/3/2020,6/23/2021,PYSA ChaChi nameserver
+ns1.wiki-text.xyz,Domain,9/3/2020,6/23/2021,PYSA ChaChi nameserver
+ns2.accounting-consult.xyz,Domain,8/2/2020,6/23/2021,PYSA ChaChi nameserver
+ns2.blitzz.best,Domain,6/6/2020,6/2/2021,PYSA ChaChi nameserver
+ns2.ccenter.tech,Domain,3/24/2021,8/31/2021,PYSA ChaChi nameserver
+ns2.english-breakfast.xyz,Domain,12/15/2020,6/24/2021,PYSA ChaChi nameserver
+ns2.englishdialoge.xyz,Domain,11/26/2020,6/24/2021,PYSA ChaChi nameserver
+ns2.englishdict.xyz,Domain,11/5/2020,6/24/2021,PYSA ChaChi nameserver
+ns2.firefox-search.xyz,Domain,9/7/2020,6/23/2021,PYSA ChaChi nameserver
+ns2.ntservicepack.com,Domain,4/29/2020,11/24/2020,PYSA ChaChi nameserver
+ns2.productoccup.tech,Domain,3/23/2021,6/24/2021,PYSA ChaChi nameserver
+ns2.pump-online.xyz,Domain,12/15/2020,6/24/2021,PYSA ChaChi nameserver
+ns2.reportservicefuture.website,Domain,5/9/2020,5/2/2021,PYSA ChaChi nameserver
+ns2.sbvjhs.club,Domain,8/2/2020,6/23/2021,PYSA ChaChi nameserver
+ns2.sbvjhs.xyz,Domain,8/1/2020,6/23/2021,PYSA ChaChi nameserver
+ns2.serchtext.xyz,Domain,11/2/2020,6/24/2021,PYSA ChaChi nameserver
+ns2.spm.best,Domain,6/18/2021,8/31/2021,PYSA ChaChi nameserver
+ns2.starhouse.xyz,Domain,11/26/2020,6/24/2021,PYSA ChaChi nameserver
+ns2.statistics-update.xyz,Domain,7/31/2020,6/23/2021,PYSA ChaChi nameserver
+ns2.transnet.wiki,Domain,3/24/2021,6/23/2021,PYSA ChaChi nameserver
+ns2.visual-translator.xyz,Domain,9/3/2020,6/23/2021,PYSA ChaChi nameserver
+ns2.wiki-text.xyz,Domain,9/3/2020,6/23/2021,PYSA ChaChi nameserver
+160.20.147.184,IP,11/26/2020,6/24/2021,PYSA ChaChi nameserver host
+172.96.189.167,IP,11/5/2020,6/24/2021,PYSA ChaChi nameserver host
+172.96.189.22,IP,12/15/2020,6/24/2021,PYSA ChaChi nameserver host
+172.96.189.246,IP,12/15/2020,6/24/2021,PYSA ChaChi nameserver host
+185.185.27.3,IP,6/6/2020,6/2/2021,PYSA ChaChi nameserver host
+185.186.245.85,IP,9/7/2020,6/23/2021,PYSA ChaChi nameserver host
+185.193.38.60,IP,5/9/2020,5/2/2021,PYSA ChaChi nameserver host
+193.239.84.205,IP,9/3/2020,6/23/2021,PYSA ChaChi nameserver host
+193.239.85.55,IP,9/3/2020,6/23/2021,PYSA ChaChi nameserver host
+194.187.249.102,IP,8/1/2020,6/23/2021,PYSA ChaChi nameserver host
+194.5.249.18,IP,7/31/2020,6/23/2021,PYSA ChaChi nameserver host
+194.5.249.180,IP,8/2/2020,6/23/2021,PYSA ChaChi nameserver host
+194.5.250.216,IP,4/29/2020,11/24/2020,PYSA ChaChi nameserver host
+198.252.100.37,IP,11/26/2020,6/24/2021,PYSA ChaChi nameserver host
+23.83.133.136,IP,3/24/2021,8/31/2021,PYSA ChaChi nameserver host
+45.147.228.49,IP,3/24/2021,6/23/2021,PYSA ChaChi nameserver host
+45.147.229.29,IP,3/23/2021,6/24/2021,PYSA ChaChi nameserver host
+89.38.225.208,IP,8/2/2020,6/23/2021,PYSA ChaChi nameserver host
+89.41.26.173,IP,11/2/2020,6/24/2021,PYSA ChaChi nameserver host
+190e0ce36c1a63ec976f7e80618c620f75f853a370ea3e602253a98781f4e5c6,SHA256,6/14/2021,6/14/2021,PYSA ChaChi - Linux variant
