@@ -115,5 +115,5 @@ if __name__ == '__main__':
        
     else:
         print("Needs argument!")
-        print("usage - keksec_necro_decoder.py [obfuscated py malware]")
+        print("usage - spytech_necro_decoder.py [obfuscated py malware]")
         exit(1)
