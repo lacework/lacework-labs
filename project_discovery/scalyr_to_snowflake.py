@@ -9,7 +9,7 @@ requirements:
 - Scalyr access token
 - Snowflake connector for python
 
-reference:(add blog URL)
+reference:https://www.lacework.com/blog/the-oast-with-the-most/
 
 authors:
 christopher.hall@lacework.net
