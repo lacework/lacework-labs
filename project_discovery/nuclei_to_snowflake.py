@@ -10,7 +10,7 @@ requirements:
 - local Nuclei templates repo:
     - https://github.com/projectdiscovery/nuclei-templates
 
-reference:(blog URL)
+reference:https://www.lacework.com/blog/the-oast-with-the-most/
 
 author:christopher.hall@lacework.net
 
