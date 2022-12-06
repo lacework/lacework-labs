@@ -1,0 +1,12 @@
+Indicator,Description
+70f35dfd9650437229453570f53969fb1644b1d07f282645c27a3877752a68bd,AndroxGh0st python variant - hardcoded with Xcatze username & email
+f6f240dc2d32bfd83b49025382dc0a1cf86dba587018de4cd96df16197f05d88,AndroxGh0st python variant
+3b04f3ae4796d77e5a458fe702612228b773bbdefbb64f20d52c574790b5c81a,AndroxGh0st python variant
+107.182.128.11,Xcatze attack IP
+319e572856a098f7beb8a07a4955e2ba823e24e31b84dfdd714bfcd5acf47a28,Windows malware - Xcatze hacktool
+45e051313272899973f16f5e79bf9ebe0a7f303b9dbeca13af9d65b97c59beae,Windows malware - Xcatze hacktool
+androxgh0st,Network artifact - seen in POST requests
+94f98c908743b75f578002abe6eae36c36673924f66a5a594b1928e7cc757260,Primary webshell payload - downloaded from https://pastebin.com/raw/ZKfXSuBX
+61b44259ef97fd64d081f1b95f8cd140c52c73e95dadf62980c4dff78b146e5f,"Alternate webshell payload, download from https://raw.githubusercontent.com/rintod/toolol/master/payload.php"
+"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36",AndroxGh0st user agent
+"Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Safari/534.30",AndroxGh0st user agent
